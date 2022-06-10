@@ -1,0 +1,6 @@
+This project utilized javascript, node, and NPM to utilize a NPM called inquirer, 
+this inquirer installation allows for prompts in the console to be neatly available and get input from the questions.
+The questions get the user input and then insert it into a script ran from generateMardkdown.js, this file gets the user inputted information and formats
+into a style that places the Titles and descriptions for all inputted text.
+
+a video demo was inserted into the user generated README.md file description
